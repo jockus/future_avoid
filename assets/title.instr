@@ -1,0 +1,22 @@
+" pitch1 pitch2 a d s r volume_percentage use_note_pitch
+
+" Lead
+0 0 0 2 1 255 10 1
+
+" Bass
+0 0 0 2 1 255 10 1
+
+" Kick
+150 1 0 0 1 4 100 0
+
+" Snare
+600 500 0 0 0 5 60 0
+
+" Soft lead
+0 0 0 0 20 255 10 1
+
+" Hi hat
+1500 100 0 0 0 1 30 0
+
+" Little Snare
+300 300 0 0 0 2 30 0
